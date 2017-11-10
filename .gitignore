@@ -102,6 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-matplotlib-2.1.0-cp36-cp36m-win_amd64.whl
-die_visual.svg
-dice_visual.svg
+*.whl
+*.svg
+*.csv
+*.png
